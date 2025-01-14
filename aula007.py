@@ -56,13 +56,15 @@ rest = 5 % 2
 #print("Valor em centimetros eh {:} e em milimetros eh {:}".format(a,b))
 #
 #Desafio 9
-#n = int(input("Qual numero?"))
+n = int(input("Qual numero?"))
 
-#for i in range(11): #O loop gera valores de i de 0 até 10.
- #result = n*i
-
-#print(f"{n} x {i} = {result}")
-#
+for i in range(11): #O loop gera valores de i de 0 até 10.
+ result = n*i
+ print(f"{n} x {i} = {result}")
+#Em Python, o alinhamento (ou indentação) das linhas é crucial e pode mudar
+# completamente o comportamento do código. Diferente de outras linguagens que usam
+# chaves {} para delimitar blocos, Python depende exclusivamente da indentação para
+# identificar blocos de código.
 
 #Desafio 10
 #v = int(input("Quanto valor voce tem? "))
