@@ -5,9 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c360488f-7fef-453d-9530-474bbb09cbf1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/OVHscripts/ManagementvSphere.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OVHscripts/simple.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aulas/aula009.py" beforeDir="false" afterPath="$PROJECT_DIR$/Aulas/aula009.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Desafios/Desafio19.py" beforeDir="false" afterPath="$PROJECT_DIR$/Desafios/Desafio19.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Desafios/Desafio20.py" beforeDir="false" afterPath="$PROJECT_DIR$/Desafios/Desafio20.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,20 +39,27 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;Python.Aula004.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Desafio19.executor&quot;: &quot;Run&quot;,
-    &quot;Python.aula007.executor&quot;: &quot;Run&quot;,
-    &quot;Python.aula008.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Python.Aula004.executor": "Run",
+    "Python.Desafio19.executor": "Run",
+    "Python.aula007.executor": "Run",
+    "Python.aula008.executor": "Run",
+    "Python.aula009.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
-}</component>
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\marci\PycharmProjects\pythonStudy\Desafios" />
+      <recent name="C:\Users\marci\PycharmProjects\pythonStudy\Aulas" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
