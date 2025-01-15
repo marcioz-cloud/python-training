@@ -2,6 +2,7 @@
 
 # To import library random needed
 import random
+
 # To create the input of the students
 a1 = input("student1: ")
 a2 = input("student2: ")
