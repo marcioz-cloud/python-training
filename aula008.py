@@ -80,9 +80,3 @@ print(lista)
 #print("A sequencia eh: ")
 #for i, numero in enumerate(sort, start=1):
     #print(f"{i}º número: {numero}")
-
-
-
-
-
-#Desafio 21

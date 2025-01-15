@@ -5,9 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c360488f-7fef-453d-9530-474bbb09cbf1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/FETCH_HEAD" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Desafios/Desafio19.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Desafios/Desafio20.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Training.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aula009.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/aula007.py" beforeDir="false" afterPath="$PROJECT_DIR$/aula007.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/aula008.py" beforeDir="false" afterPath="$PROJECT_DIR$/aula008.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -43,6 +45,7 @@
   "keyToString": {
     "ASKED_ADD_EXTERNAL_FILES": "true",
     "Python.Aula004.executor": "Run",
+    "Python.Desafio19.executor": "Run",
     "Python.aula007.executor": "Run",
     "Python.aula008.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
