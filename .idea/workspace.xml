@@ -6,8 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="c360488f-7fef-453d-9530-474bbb09cbf1" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Desafios/Desafio19.py" beforeDir="false" afterPath="$PROJECT_DIR$/Desafios/Desafio19.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Desafios/Desafio20.py" beforeDir="false" afterPath="$PROJECT_DIR$/Desafios/Desafio20.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Desafios/Training.py" beforeDir="false" afterPath="$PROJECT_DIR$/Desafios/Training.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,6 +43,7 @@
     "Python.Aula004.executor": "Run",
     "Python.Desafio19.executor": "Run",
     "Python.Desafio20.executor": "Run",
+    "Python.Training.executor": "Run",
     "Python.aula007.executor": "Run",
     "Python.aula008.executor": "Run",
     "Python.aula009.executor": "Run",
