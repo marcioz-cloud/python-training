@@ -5,10 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c360488f-7fef-453d-9530-474bbb09cbf1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Desafios/Desafio26.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Desafios/Desafio27.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aulas/Aula10.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Desafios/Desafio28.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Desafios/Desafio25.py" beforeDir="false" afterPath="$PROJECT_DIR$/Desafios/Desafio25.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,6 +42,7 @@
   "keyToString": {
     "ASKED_ADD_EXTERNAL_FILES": "true",
     "Python.Aula004.executor": "Run",
+    "Python.Aula10.executor": "Run",
     "Python.Desafio19.executor": "Run",
     "Python.Desafio20.executor": "Run",
     "Python.Desafio22.executor": "Run",
@@ -51,6 +51,7 @@
     "Python.Desafio25.executor": "Run",
     "Python.Desafio26.executor": "Run",
     "Python.Desafio27.executor": "Run",
+    "Python.Desafio28.executor": "Run",
     "Python.Training.executor": "Run",
     "Python.aula007.executor": "Run",
     "Python.aula008.executor": "Run",
