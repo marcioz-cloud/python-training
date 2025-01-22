@@ -5,9 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c360488f-7fef-453d-9530-474bbb09cbf1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Aulas/aula11.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Desafios/Desafio33.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aulas/tupla.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aulas/aula12.py" beforeDir="false" afterPath="$PROJECT_DIR$/Aulas/aula12.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,6 +62,8 @@
     "Python.aula008.executor": "Run",
     "Python.aula009.executor": "Run",
     "Python.aula11.executor": "Run",
+    "Python.aula12.executor": "Run",
+    "Python.tupla.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
