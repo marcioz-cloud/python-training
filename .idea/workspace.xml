@@ -5,10 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c360488f-7fef-453d-9530-474bbb09cbf1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Desafios/Desafio 31.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Desafios/Desafio29.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Desafios/Desafio30.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Desafios/Desafio32.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aulas/aula11.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Desafios/Desafio33.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -58,10 +56,12 @@
     "Python.Desafio29.executor": "Run",
     "Python.Desafio30.executor": "Run",
     "Python.Desafio32.executor": "Run",
+    "Python.Desafio33.executor": "Run",
     "Python.Training.executor": "Run",
     "Python.aula007.executor": "Run",
     "Python.aula008.executor": "Run",
     "Python.aula009.executor": "Run",
+    "Python.aula11.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
