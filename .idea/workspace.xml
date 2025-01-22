@@ -5,9 +5,28 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c360488f-7fef-453d-9530-474bbb09cbf1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Aulas/tupla.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Desafios/World 2/Desafio36.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Desafios/World 2/Desafio37.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Desafios/World 2/Desafio39-Alistamento.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Desafios/World 2/Desafio41.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Desafios/World 2/Desafio45-rock-paper-scissors.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Aulas/aula12.py" beforeDir="false" afterPath="$PROJECT_DIR$/Aulas/aula12.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aulas/Aula004.py" beforeDir="false" afterPath="$PROJECT_DIR$/Aulas/aula004.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aulas/Aula10.py" beforeDir="false" afterPath="$PROJECT_DIR$/Aulas/aula10.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Desafios/Desafio 31.py" beforeDir="false" afterPath="$PROJECT_DIR$/Desafios/World 1/Desafio 31.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Desafios/Desafio19.py" beforeDir="false" afterPath="$PROJECT_DIR$/Desafios/World 1/Desafio19.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Desafios/Desafio20.py" beforeDir="false" afterPath="$PROJECT_DIR$/Desafios/World 1/Desafio20.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Desafios/Desafio22.py" beforeDir="false" afterPath="$PROJECT_DIR$/Desafios/World 1/Desafio22.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Desafios/Desafio23.py" beforeDir="false" afterPath="$PROJECT_DIR$/Desafios/World 1/Desafio23.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Desafios/Desafio24.py" beforeDir="false" afterPath="$PROJECT_DIR$/Desafios/World 1/Desafio24.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Desafios/Desafio25.py" beforeDir="false" afterPath="$PROJECT_DIR$/Desafios/World 1/Desafio25.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Desafios/Desafio26.py" beforeDir="false" afterPath="$PROJECT_DIR$/Desafios/World 1/Desafio26.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Desafios/Desafio27.py" beforeDir="false" afterPath="$PROJECT_DIR$/Desafios/World 1/Desafio27.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Desafios/Desafio28.py" beforeDir="false" afterPath="$PROJECT_DIR$/Desafios/World 1/Desafio28.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Desafios/Desafio29.py" beforeDir="false" afterPath="$PROJECT_DIR$/Desafios/World 1/Desafio29.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Desafios/Desafio30.py" beforeDir="false" afterPath="$PROJECT_DIR$/Desafios/World 1/Desafio30.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Desafios/Desafio32.py" beforeDir="false" afterPath="$PROJECT_DIR$/Desafios/World 1/Desafio32.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Desafios/Desafio33.py" beforeDir="false" afterPath="$PROJECT_DIR$/Desafios/World 1/Desafio33.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,6 +76,11 @@
     "Python.Desafio30.executor": "Run",
     "Python.Desafio32.executor": "Run",
     "Python.Desafio33.executor": "Run",
+    "Python.Desafio36.executor": "Run",
+    "Python.Desafio37.executor": "Run",
+    "Python.Desafio39-Alistamento.executor": "Run",
+    "Python.Desafio41.executor": "Run",
+    "Python.Desafio45-rock-paper-scissors.executor": "Run",
     "Python.Training.executor": "Run",
     "Python.aula007.executor": "Run",
     "Python.aula008.executor": "Run",
@@ -73,6 +97,7 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\marci\PycharmProjects\pythonStudy\Desafios\World 1" />
       <recent name="C:\Users\marci\PycharmProjects\pythonStudy\Desafios" />
       <recent name="C:\Users\marci\PycharmProjects\pythonStudy\Aulas" />
     </key>
